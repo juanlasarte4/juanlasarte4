@@ -1,6 +1,6 @@
 Hola 👋🏻👋🏻👋🏻👋🏻
 
-😄 Soy Juan Antonio Lasarte, tengo 19 años y actualmente soy estudiante de grado superior de desarrollo de aplicaciones multiplataforma.
+😄 Soy Juan Lasarte, tengo 19 años y actualmente soy estudiante de grado superior de desarrollo de aplicaciones multiplataforma.
 
 ⚡ Entre las cosas que más me gustan son:
 - Me encanta la informática, en concreto la programación.
